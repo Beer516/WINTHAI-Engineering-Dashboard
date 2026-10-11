@@ -1,20 +1,22 @@
 {
-  "name": "WINTHAI Engineering Dashboard",
-  "short_name": "WINTHAI",
+  "name": "ช่างอุ๊ด มุกดาหาร",
+  "short_name": "ช่างอุ๊ด",
+  "description": "ระบบประเมินราคางานไฟฟ้าหน้างาน",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffcc00",
+  "theme_color": "#ffcc00",
   "icons": [
     {
       "src": "./icon-193.png",
-      "sizes": "193x193",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
       "src": "./icon-513.png",
-      "sizes": "513x513",
+      "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff"
+  ]
 }
